@@ -1,0 +1,14 @@
+C:\Users\Nike\source\repos\CovidLetturaDatiJson\CovidLetturaDatiJson\bin\Debug\CovidLetturaDatiJson.exe.config
+C:\Users\Nike\source\repos\CovidLetturaDatiJson\CovidLetturaDatiJson\bin\Debug\CovidLetturaDatiJson.exe
+C:\Users\Nike\source\repos\CovidLetturaDatiJson\CovidLetturaDatiJson\bin\Debug\CovidLetturaDatiJson.pdb
+C:\Users\Nike\source\repos\CovidLetturaDatiJson\CovidLetturaDatiJson\obj\Debug\CovidLetturaDatiJson.csproj.AssemblyReference.cache
+C:\Users\Nike\source\repos\CovidLetturaDatiJson\CovidLetturaDatiJson\obj\Debug\CovidLetturaDatiJson.Form1.resources
+C:\Users\Nike\source\repos\CovidLetturaDatiJson\CovidLetturaDatiJson\obj\Debug\CovidLetturaDatiJson.Properties.Resources.resources
+C:\Users\Nike\source\repos\CovidLetturaDatiJson\CovidLetturaDatiJson\obj\Debug\CovidLetturaDatiJson.csproj.GenerateResource.cache
+C:\Users\Nike\source\repos\CovidLetturaDatiJson\CovidLetturaDatiJson\obj\Debug\CovidLetturaDatiJson.csproj.CoreCompileInputs.cache
+C:\Users\Nike\source\repos\CovidLetturaDatiJson\CovidLetturaDatiJson\obj\Debug\CovidLetturaDatiJson.exe
+C:\Users\Nike\source\repos\CovidLetturaDatiJson\CovidLetturaDatiJson\obj\Debug\CovidLetturaDatiJson.pdb
+C:\Users\Nike\source\repos\CovidLetturaDatiJson\CovidLetturaDatiJson\obj\Debug\CovidLetturaDatiJson.Visualizzatore.resources
+C:\Users\Nike\source\repos\CovidLetturaDatiJson\CovidLetturaDatiJson\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nike\source\repos\CovidLetturaDatiJson\CovidLetturaDatiJson\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nike\source\repos\CovidLetturaDatiJson\CovidLetturaDatiJson\obj\Debug\CovidLetturaDatiJson.csproj.CopyComplete
