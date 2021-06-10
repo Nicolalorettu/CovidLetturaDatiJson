@@ -1,0 +1,2 @@
+# CovidLetturaDatiJson
+Lettore dati Covid.
